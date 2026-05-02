@@ -1,0 +1,6 @@
+node_modules/
+vehicle_maintenance_scheduler/dist/
+notification_app_be/dist/
+.env
+.DS_Store
+*.log
